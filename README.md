@@ -130,6 +130,6 @@ const getUserPosition = async function () {
 
 JS is awesome!
 
-===
+---
 
 Another lib made with :heart:
