@@ -6,8 +6,9 @@
   "scripts": {
     "test": "jest",
     "build": "npm run build:dev && npm run build:prod",
-    "build:dev": "rollup -c rollup.config.dev.js",
-    "build:prod": "rollup -c rollup.config.prod.js"
+    "build:dev": "rollup -c configs/rollup.config.dev.js",
+    "build:prod": "rollup -c configs/rollup.config.prod.js",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
