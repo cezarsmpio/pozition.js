@@ -1,10 +1,10 @@
 import typescript from 'rollup-plugin-typescript2';
 
 export default {
-  entry: 'pozition.ts',
+  entry: './src/pozition.ts',
   moduleName: 'pozition',
   format: 'umd',
-  dest: './pozition.js',
+  dest: './dist/pozition.js',
   plugins: [
     typescript()
   ]
