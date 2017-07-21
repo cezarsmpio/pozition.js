@@ -11,6 +11,23 @@ My motivations to create that lib are: learn TypeScript and develop a simple Geo
 
 * Getting your current position: https://cezarlz.github.io/pozition.js/
 
+# Install
+
+npm
+```
+npm install pozition.js --save
+```
+
+yarn
+```
+yarn add pozition.js
+```
+
+cdn
+```
+<script src="https://cdn.rawgit.com/cezarlz/pozition.js/ac4d0d20/dist/pozition.min.js"></script>
+```
+
 # Example
 
 ```javascript
