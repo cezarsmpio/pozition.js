@@ -9,7 +9,7 @@ My motivations to create that lib are: learn TypeScript and develop a simple Geo
 
 # Demo
 
-* Getting your current position: https://cezarlz.github.io/pozition.js/
+* Getting your current position: https://cezarsmpio.github.io/pozition.js/
 
 # Install
 
